@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-deploy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/app.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev": "node api/app.js"
+  }
+}
